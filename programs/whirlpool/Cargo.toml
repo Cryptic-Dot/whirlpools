@@ -18,7 +18,7 @@ anchor-lang = { version = "=0.30.1" }
 anchor-spl = { version = "=0.30.1", features = ["metadata", "memo"] }
 spl-token = { version = "=4.0.3", features = ["no-entrypoint"] }
 spl-transfer-hook-interface = { version = "=0.6.5" }
-solana-program = { version = "=1.18.21" }
+solana-program = { version = "=1.18.26" }
 thiserror = { version = "=1.0.63" }
 uint = { version = "=0.9.5", default-features = false }
 arrayref = { version = "=0.3.8" }
