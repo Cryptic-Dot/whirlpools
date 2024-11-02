@@ -1,4 +1,5 @@
 .anchor
+.idea
 .DS_Store
 .vscode/
 target
@@ -20,3 +21,4 @@ generated
 !.yarn/sdks
 !.yarn/versions
 .nx
+idl/
