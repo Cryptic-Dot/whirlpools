@@ -1,6 +1,6 @@
 {
   "name": "@orca-so/whirlpools",
-  "private": true,
+  "private": false,
   "license": "Apache-2.0",
   "packageManager": "yarn@4.3.1",
   "scripts": {
